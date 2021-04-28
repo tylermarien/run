@@ -1,0 +1,22 @@
+{
+  "name": "run",
+  "version": "1.0.0",
+  "description": "Test run",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tylermarien/run.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tylermarien/run/issues"
+  },
+  "homepage": "https://github.com/tylermarien/run#readme",
+  "bin": {
+    "run": "run.js"
+  }
+}
