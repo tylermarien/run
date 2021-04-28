@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/tylermarien/run#readme",
   "bin": {
-    "run": "run.js"
+    "run-test": "run.js"
   }
 }
